@@ -1,0 +1,6 @@
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\ArraysTricks\bin\Debug\ArraysTricks.exe.config
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\ArraysTricks\bin\Debug\ArraysTricks.exe
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\ArraysTricks\bin\Debug\ArraysTricks.pdb
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\ArraysTricks\obj\Debug\ArraysTricks.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\ArraysTricks\obj\Debug\ArraysTricks.exe
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\ArraysTricks\obj\Debug\ArraysTricks.pdb
