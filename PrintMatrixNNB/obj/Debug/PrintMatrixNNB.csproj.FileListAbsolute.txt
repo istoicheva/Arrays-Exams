@@ -1,0 +1,5 @@
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\PrintMatrixNNB\bin\Debug\PrintMatrixNNB.exe.config
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\PrintMatrixNNB\bin\Debug\PrintMatrixNNB.exe
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\PrintMatrixNNB\bin\Debug\PrintMatrixNNB.pdb
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\PrintMatrixNNB\obj\Debug\PrintMatrixNNB.exe
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\PrintMatrixNNB\obj\Debug\PrintMatrixNNB.pdb
