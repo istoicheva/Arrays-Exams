@@ -1,0 +1,6 @@
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\Array\bin\Debug\Array.exe.config
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\Array\bin\Debug\Array.exe
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\Array\bin\Debug\Array.pdb
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\Array\obj\Debug\Array.exe
+C:\Users\Ina\Dropbox\University\JumpStart\C Sharp\Exersices\Book_Array\Array\obj\Debug\Array.pdb
